@@ -21,9 +21,10 @@ const Header = () => {
                 />{' '}
             </Navbar.Brand>
             <Nav className="mr-auto">
-                <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#features">Features</Nav.Link>
-                <Nav.Link href="#pricing">Pricing</Nav.Link>
+                <Nav.Link href="#home">Home |</Nav.Link>
+                <Nav.Link href="#features">Nutrition Tips |</Nav.Link>
+                <Nav.Link href="#pricing">Add Recipe |</Nav.Link>
+                <Nav.Link href="#pricing">Travel</Nav.Link>
             </Nav>
             <Form inline className="form">
                 <FormControl type="text" placeholder="Search Recipe" className="mr-sm-2" />
