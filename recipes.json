@@ -1,0 +1,369 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Smoked Salmon Salad",
+      "time": "20 min",
+      "difficulty": "Easy",
+      "portions": "2-4",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "lettuce",
+          "quantity": "150g"
+        },
+        {
+          "id": 2,
+          "name": "red salad",
+          "quantity": "50g"
+        },
+        {
+          "id": 3,
+          "name": "corn can",
+          "quantity": "100g"
+        },
+        {
+          "id": 4,
+          "name": "smoked salmon",
+          "quantity": "80g"
+        },
+        {
+          "id": 5,
+          "name": "cucumber",
+          "quantity": "1 medium"
+        },
+        {
+          "id": 6,
+          "name": "dill",
+          "quantity": "30g"
+        },
+        {
+          "id": 7,
+          "name": "olive oil",
+          "quantity": "4 spoons"
+        },
+        {
+          "id": 8,
+          "name": "grapefruit juice",
+          "quantity": "2 spoons"
+        },
+        {
+          "id": 9,
+          "name": "balsamic oil",
+          "quantity": "1 spoon"
+        },
+        {
+          "id": 10,
+          "name": "Salt&Pepper",
+          "quantity": "A pinch"
+        }
+      ],
+      "instructions": [
+        {
+          "id": 1,
+          "step": "step 1",
+          "instructions": "Wash the salad and wipe it with napkin until is dry"
+        },
+        {
+          "id": 2,
+          "step": "step 2",
+          "instructions": "chop it medium size"
+        },
+        {
+          "id": 3,
+          "step": "step 3",
+          "instructions": "Wash the cucumber and chop it small pieces."
+        },
+        {
+          "id": 4,
+          "step": "step 4",
+          "instructions": "Cut thin strips of salmon"
+        },
+        {
+          "id": 5,
+          "step": "step 5",
+          "instructions": "Add in a bowl the salad, the corn, cucumber slices and the salmon"
+        },
+        {
+          "id": 6,
+          "step": "step 6",
+          "instructions": "add chopped dill depending on your taste"
+        },
+        {
+          "id": 7,
+          "step": "step 7",
+          "instructions": "In another bowl mix the olive oil, grapefruit juice, balsamic oil and the salt and the pepper"
+        },
+        {
+          "id": 8,
+          "step": "step 8",
+          "instructions": "Add the sauce in the salad before serving it."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Baby carrot salad",
+      "time": "45 min",
+      "difficulty": "Easy",
+      "portions": "2-4",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "baby carrots",
+          "quantity": "800g"
+        },
+        {
+          "id": 2,
+          "name": "garlic cloves",
+          "quantity": "3"
+        },
+        {
+          "id": 3,
+          "name": "chopped oregano",
+          "quantity": "1 spoon"
+        },
+        {
+          "id": 4,
+          "name": "chopped parsley",
+          "quantity": "1 spoon"
+        },
+        {
+          "id": 5,
+          "name": "black olives",
+          "quantity": "60g"
+        },
+        {
+          "id": 6,
+          "name": "butter/olive oil",
+          "quantity": "30g"
+        },
+        {
+          "id": 7,
+          "name": "Salt&Pepper",
+          "quantity": "A pinch"
+        }
+      ],
+      "instructions": [
+        {
+          "id": 1,
+          "step": "step 1",
+          "instructions": "Peel the carrots, wash them and boil them for 20 minutes in salted water"
+        },
+        {
+          "id": 2,
+          "step": "step 2",
+          "instructions": "Drain them and let them cool"
+        },
+        {
+          "id": 3,
+          "step": "step 3",
+          "instructions": "Put the butter in a pot, add the garlic and the cold carrots"
+        },
+        {
+          "id": 4,
+          "step": "step 4",
+          "instructions": "Spice them with salt, pepper, parsley and oregano and fry them 1-2 minutes on both sides"
+        },
+        {
+          "id": 5,
+          "step": "step 5",
+          "instructions": "Add the sliced olives and fry everything for more 3 minutes"
+        },
+        {
+          "id": 6,
+          "step": "step 6",
+          "instructions": "The salad is ready. It can be served either cold or warm."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Caprese Salad",
+      "time": "15 min",
+      "difficulty": "Easy",
+      "portions": "2-4",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Fresh Mozzarella",
+          "quantity": "300g"
+        },
+        {
+          "id": 2,
+          "name": "Tomatoes",
+          "quantity": "3-4"
+        },
+        {
+          "id": 3,
+          "name": "Basilic Leafs",
+          "quantity": "40g"
+        },
+        {
+          "id": 4,
+          "name": "Pine Seeds",
+          "quantity": "40g"
+        },
+        {
+          "id": 5,
+          "name": "Garlic",
+          "quantity": "1 clove"
+        },
+        {
+          "id": 6,
+          "name": "Parmesan ",
+          "quantity": "60g"
+        },
+        {
+          "id": 7,
+          "name": "Olive Oil",
+          "quantity": "1/2 Glass "
+        },
+        {
+          "id": 7,
+          "name": "Salt&Pepper",
+          "quantity": "A pinch"
+        }
+      ],
+      "instructions": [
+        {
+          "id": 1,
+          "step": "step 1",
+          "instructions": "Wash the tomatoes,dry and slice them"
+        },
+        {
+          "id": 2,
+          "step": "step 2",
+          "instructions": "slice the mozzarela in pieces as thick as the tomato ones"
+        },
+        {
+          "id": 3,
+          "step": "step 3",
+          "instructions": "Put them alternatively on a plate."
+        },
+        {
+          "id": 4,
+          "step": "step 4",
+          "instructions": "Mix in a blender the basilic leafs with the pine seeds, the garlic and the parmesan"
+        },
+        {
+          "id": 5,
+          "step": "step 5",
+          "instructions": "Add gradually on top the olive oil until the consistency gets creamy."
+        },
+        {
+          "id": 6,
+          "step": "step 6",
+          "instructions": "Add the sauce on top of the mozzarela and tomato slices and the salad is ready."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chickpeas and zucchini salad",
+      "time": "20 min",
+      "difficulty": "Easy",
+      "portions": "4",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "boiled chickpeas",
+          "quantity": "250g"
+        },
+        {
+          "id": 2,
+          "name": "zucchini",
+          "quantity": "2"
+        },
+        {
+          "id": 3,
+          "name": "dry white wine",
+          "quantity": "30ml"
+        },
+        {
+          "id": 4,
+          "name": "garlic cloves",
+          "quantity": "2"
+        },
+        {
+          "id": 5,
+          "name": "ham",
+          "quantity": "100g"
+        },
+        {
+          "id": 6,
+          "name": "olive oil",
+          "quantity": "2-3 spoons"
+        },
+        {
+          "id": 7,
+          "name": "apple vinegar",
+          "quantity": "1 spoon"
+        },
+        {
+          "id": 8,
+          "name": "dijon mustard",
+          "quantity": "1/2 spoon"
+        },
+        {
+          "id": 9,
+          "name": "Salt&Pipper",
+          "quantity": "A pinch"
+        }
+      ],
+      "instructions": [
+        {
+          "id": 1,
+          "step": "step 1",
+          "instructions": "Wash the zucchini and cut it in small cubes"
+        },
+        {
+          "id": 2,
+          "step": "step 2",
+          "instructions": "cut the ham in same size cubes and fry it around 2 minutes."
+        },
+        {
+          "id": 3,
+          "step": "step 3",
+          "instructions": "Heat the oil in another pan, add the smashed garlic."
+        },
+        {
+          "id": 4,
+          "step": "step 4",
+          "instructions": "Mix them and slightly cook at low heat for 3-4 minutes before adding the white wine."
+        },
+        {
+          "id": 5,
+          "step": "step 5",
+          "instructions": "After the wine evaporated, take the zucchini and the chickpeas out and let them cool."
+        },
+        {
+          "id": 6,
+          "step": "step 6",
+          "instructions": "Now put everything in a bowl and mix it."
+        },
+        {
+          "id": 7,
+          "step": "step 7",
+          "instructions": "In another bowl put the olive oil, and mustard and the vinegar and spice it with salt and pepper."
+        },
+        {
+          "id": 8,
+          "step": "step 8",
+          "instructions": "Add the sauce on the salad before you want to eat it as a dressing."
+        },
+        {
+          "id": 9,
+          "step": "step 9",
+          "instructions": "Add gradually on top the olive oil until the consistency gets creamy."
+        },
+        {
+          "id": 10,
+          "step": "step 10",
+          "instructions": "Add gradually on top the olive oil until the consistency gets creamy."
+        }
+      ]
+    }
+    
+  ]
+}
