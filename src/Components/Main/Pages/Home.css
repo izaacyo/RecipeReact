@@ -1,0 +1,33 @@
+h3,
+.carousel-control-prev-icon {
+  font-family: "Permanent Marker", cursive;
+  font-size: 3rem !important;
+  color: rgb(253, 253, 253) !important;
+}
+
+.carousel-control-prev-icon {
+  background-image: black !important;
+}
+
+.main_description p {
+  font-size: 25px;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+@media (max-width: 720px) {
+  .main_description p {
+    font-size: 11px;
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .carousel-innner {
+    width: 30% !important;
+  }
+
+  h3,
+  .sr-only {
+    font-size: 11px !important;
+  }
+}

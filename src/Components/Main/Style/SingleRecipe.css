@@ -1,0 +1,75 @@
+.card {
+  background-color: rgb(240, 232, 232);
+}
+
+.card-title h2,
+h4 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 30px !important;
+  margin-left: 10rem;
+  margin-top: 20px;
+}
+
+.card-text,
+.ingredient_text {
+  font-family: "Permanent Marker", cursive;
+  font-size: 1rem;
+  margin-left: 10rem;
+}
+
+.card-text {
+  margin-left: 12rem;
+}
+
+p {
+  margin-top: 1rem;
+}
+
+ul {
+  background-color: rgb(243, 243, 243);
+  margin-left: 10rem;
+}
+
+.border-warning {
+  width: 100% !important;
+}
+
+button {
+  background-color: rgba(110, 190, 121, 0.801) !important;
+  border: none !important;
+  width: 13%;
+  margin-left: 15rem;
+  margin-bottom: 10px;
+}
+.img-container {
+  max-height: 40rem;
+  max-width: 50%;
+  overflow: hidden;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 50px;
+  margin-left: 20rem;
+}
+
+.card-img,
+.card-img-bottom,
+.card-img-top {
+  width: 25%;
+  padding-left: 10px;
+}
+
+@media (max-width: 720px) {
+  .card-img,
+  .card-img-bottom,
+  .card-img-top {
+    width: 50%;
+  }
+
+  .card-text {
+    margin-left: 5px;
+  }
+
+  button {
+    width: 20%;
+  }
+}

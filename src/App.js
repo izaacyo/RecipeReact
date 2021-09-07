@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css';
-import Header from './Components/Header';
-import Main from './Components/Main';
-import Footer from './Components/Footer';
+import Header from './Components/Header/Header';
+import Main from './Components/Main/Pages/Main';
+import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router } from "react-router-dom";
 
 

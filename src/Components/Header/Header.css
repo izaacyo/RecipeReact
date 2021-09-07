@@ -1,0 +1,45 @@
+.mr-auto {
+  font-size: 1.5rem;
+  margin-left: 11rem;
+}
+
+.picture {
+  background-image: url("logo1.png");
+  background-repeat: no-repeat;
+  margin-left: 15px;
+}
+
+.Navbar {
+  width: auto;
+  height: auto;
+  text-decoration: none;
+}
+
+.quote p {
+  font-family: "Permanent Marker", cursive;
+  font-size: 25px;
+  margin-left: 5rem;
+  margin-top: 10rem;
+}
+
+.nav-link {
+  font-family: "Merienda", cursive;
+  font-size: 25px;
+  color: green !important;
+}
+
+@media (max-width: 576px) {
+  .mr-auto {
+    font-size: 20px;
+    margin-left: 10px;
+    display: block;
+  }
+  .nav-link {
+    font-size: 10px;
+  }
+
+  .quote p {
+    font-size: 10px;
+    margin: auto;
+  }
+}

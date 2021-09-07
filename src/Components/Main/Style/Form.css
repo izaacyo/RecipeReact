@@ -1,0 +1,60 @@
+#main {
+  background-color: rgba(123, 185, 123, 0.322);
+  font-family: "Permanent Marker", cursive;
+}
+
+.form-button {
+  margin-left: 10rem;
+  margin-top: 10px;
+}
+
+.submit-button {
+  position: relative;
+  margin-top: 15px;
+  margin-left: 55rem;
+}
+
+.form-group {
+  width: 70%;
+  margin-left: 10rem;
+  margin-top: 10px;
+}
+
+.instructions-title,
+.ingredients-title {
+  font-family: "Permanent Marker", cursive;
+  margin-left: 10rem;
+  margin-top: 50px;
+}
+
+.Image {
+  margin-left: 10rem;
+}
+
+@media (max-width: 720px) {
+  .submit-button {
+    margin-left: 18rem;
+  }
+
+  .form-group {
+    width: 70%;
+    margin-left: 2rem;
+    margin-top: 10px;
+  }
+
+  .instructions-title,
+  .ingredients-title {
+    font-family: "Permanent Marker", cursive;
+    margin-left: 6.5rem;
+    margin-top: 50px;
+  }
+  .Image {
+    margin-left: 3rem;
+    font-size: 10px;
+  }
+
+  .form-button {
+    margin-left: 10rem;
+    margin-top: 15px;
+  }
+}
