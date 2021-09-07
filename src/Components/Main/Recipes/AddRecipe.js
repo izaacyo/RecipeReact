@@ -140,7 +140,7 @@ const AddRecipe = () => {
                                 <Form.Group>
                                     <Row>
                                         <Col>
-                                            <Form.Label htmlFor="step">Step</Form.Label>
+                                            <Form.Label htmlFor="step">Step number:</Form.Label>
                                             <Form.Control
                                                 type="text"
                                                 id="step"
