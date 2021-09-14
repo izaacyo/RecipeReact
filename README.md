@@ -1,6 +1,6 @@
 # Saladas&Smiles React JS Project
 
-A website containing healthy recipes where I practiced the lessons learned during React JS classes from Business College Helsinki.
+A website containing salad recipes where I practiced the lessons learned during React JS classes from Business College Helsinki.
 
 Live server: http://recipeapp-env.eba-dvzutmwp.us-east-2.elasticbeanstalk.com/
 
