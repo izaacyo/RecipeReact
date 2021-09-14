@@ -1,10 +1,26 @@
 # Saladas&Smiles React JS Project
 
+<<<<<<< HEAD
 A website containing healthy recipes where I practiced the lessons learned during React JS classes from Business College Helsinki.
 
 Live server: http://recipeapp-env.eba-dvzutmwp.us-east-2.elasticbeanstalk.com/
 
 ## Technologies used
+=======
+A website containing healthy recipes where I practiced the lessons learned during React JS classes from Business College Helsinki. 
+
+## Technologies used
+
+Build wtih: 
+*React JS
+*Javascript
+*Html
+*CSS
+
+Hosted on:
+*AWS
+
+>>>>>>> b643acd135a1b67785e54ac7baba2a8f062e86d1
 
 Build wtih:
 
