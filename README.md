@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Saladas&Smiles React JS Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A website containing healthy recipes where I practiced the lessons learned during React JS classes from Business College Helsinki.
 
-## Available Scripts
+Live server: http://recipeapp-env.eba-dvzutmwp.us-east-2.elasticbeanstalk.com/
 
-In the project directory, you can run:
+## Technologies used
 
-### `npm start`
+Build wtih:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React JS
+- Javascript
+- Html
+- CSS
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Hosted on:
 
-### `npm test`
+- AWS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setup and usage
 
-### `npm run build`
+1. Clone the folder
+2. Install node module and its dependencies that can be found in
+   package.json
+3. Install json server ( for development under local db)
+4. Run npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sources
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- The server side was created with Symfony and it can be found here [Recipe_BackendServer](https://github.com/izaacyo/Recipe_BackendServer)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors and acknowledgment
 
-### `npm run eject`
+- Author: Popa Marius [Github](https://github.com/izaacyo) [LinkedIn](https://www.linkedin.com/in/popamariuspetrut/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Coordinator teacher: Margit Tennosaar [Github](https://github.com/margittennosaar) [LinkedIn](https://www.linkedin.com/in/margittennosaar/)
