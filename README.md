@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Saladas&Smiles React JS Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A website containing healthy recipes where I practiced the lessons learned during React JS classes from Business College Helsinki. 
 
-## Available Scripts
+## Technologies used
 
-In the project directory, you can run:
+Build wtih: 
+*React JS
+*Javascript
+*Html
+*CSS
+
+Hosted on:
+*AWS
+
 
 ### `npm start`
 
