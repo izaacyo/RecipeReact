@@ -2,7 +2,7 @@
 
 A website containing salad recipes where I practiced the lessons learned during React JS classes from Business College Helsinki.
 
-Live server: http://recipeapp-env.eba-dvzutmwp.us-east-2.elasticbeanstalk.com/
+Live server: https://saladsandsmiles.netlify.app/
 
 ## Technologies used
 
