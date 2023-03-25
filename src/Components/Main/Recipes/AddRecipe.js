@@ -159,7 +159,7 @@ const AddRecipe = () => {
                                         </Col>
                                     </Row>
                                 </Form.Group>
-                            </div >
+                            </div>
                         );
                     })}
 
@@ -186,8 +186,8 @@ const AddRecipe = () => {
                 <Button className="submit-button" type="submit" variant="success" value="Send data" >
                     Post recipe
                 </Button>
-            </Form >
-        </div >
+            </Form>
+        </div>
     );
 };
 

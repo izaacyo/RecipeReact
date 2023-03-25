@@ -29,7 +29,7 @@ const Header = () => {
 
             </Nav>
 
-        </Navbar >
+        </Navbar>
     );
 };
 

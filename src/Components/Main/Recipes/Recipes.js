@@ -21,7 +21,7 @@ const Recipes = () => {
     useEffect(() => {
 
         const getRecipes = async () => {
-            const resp = await axios.get(" https://secure-earth-77311.herokuapp.com/recipe/all")
+            const resp = await axios.get("http://localhost:3000/recipes")
             const data = resp.data
             setRecipes(data)
         };

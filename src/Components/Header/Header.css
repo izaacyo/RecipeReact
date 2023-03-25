@@ -9,6 +9,8 @@
   margin-left: 15px;
 }
 
+
+
 .Navbar {
   width: auto;
   height: auto;
@@ -42,4 +44,9 @@
     font-size: 10px;
     margin: auto;
   }
+}
+
+.carousel-item img{
+    width: 100%;
+  
 }
