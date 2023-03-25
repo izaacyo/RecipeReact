@@ -22,7 +22,7 @@ const Recipes = () => {
 
         const getRecipes = async () => {
             // const resp = await axios.get("https://secure-earth-77311.herokuapp.com/recipe/all")
-             const resp = await axios.get("http://localhost:3000/recipes")
+             const resp = await axios.get("https://abalone-bird-coyote.glitch.me/recipes")
             const data = resp.data
             setRecipes(data)
         };
