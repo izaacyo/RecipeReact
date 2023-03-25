@@ -66,7 +66,8 @@ const AddRecipe = () => {
 
     const submitData = (e) => {
         e.preventDefault();
-        axios.post("https://secure-earth-77311.herokuapp.com/recipe/add", newRecipe)
+        // axios.post("https://secure-earth-77311.herokuapp.com/recipe/add", newRecipe)
+         axios.post("http://localhost:3000/recipes", newRecipe)
             .then(() => {
                 e.target.reset();
                 window.scrollTo(0, 0)

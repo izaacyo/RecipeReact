@@ -19,7 +19,8 @@ const RecipeSingle = () => {
     useEffect(() => {
 
         const getRecipe = async () => {
-            const resp = await axios.get("https://641f04e4f90d4f433e41309a--remarkable-licorice-7bd94f.netlify.app/recipe/find/" + id)
+           // const resp = await axios.get("https://641f04e4f90d4f433e41309a--remarkable-licorice-7bd94f.netlify.app/recipe/find/" + id)
+            const resp = await axios.get("http://localhost:3000/recipes" + id)
             const data = resp.data;
             setRecipe(data);
             //   setIngredients(data.ingredients)
