@@ -15,7 +15,7 @@ Build wtih:
 
 Hosted on:
 
-- AWS
+- Netlify
 
 ## Setup and usage
 
