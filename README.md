@@ -25,7 +25,7 @@ Hosted on:
 3. Install json server ( for development under local db)
 4. Run npm start
 
-## Sources
+## Backend
 
 - The server side was created with Symfony and it can be found here [Recipe_BackendServer](https://github.com/izaacyo/Recipe_BackendServer)
 
